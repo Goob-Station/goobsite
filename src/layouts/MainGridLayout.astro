@@ -28,9 +28,9 @@ const enableBanner = siteConfig.banner.enable
         <div class="absolute h-8 left-0 right-0 -top-8 bg-[var(--card-bg)] transition"></div> <!-- used for onload animation -->
         <Navbar></Navbar>
     </div>
-    <SideBar class="row-start-3 row-end-4 col-span-2 lg:row-start-2 lg:row-end-3 lg:col-span-1 lg:max-w-[17.5rem] onload-animation"></SideBar>
 
-    <div id="content-wrapper" class="row-start-2 row-end-3 col-span-2 lg:col-span-1 overflow-hidden onload-animation">
+
+    <div id="content-wrapper" class="row-start-2 row-end-4 col-span-2 overflow-hidden onload-animation">
         <!-- the overflow-hidden here prevent long text break the layout-->
         <main id="swup" class="transition-fade">
             <slot></slot>
