@@ -77,7 +77,12 @@ const siteLang = siteConfig.lang.replace('_', '-')
 	<head>
 
 		<title>{pageTitle}</title>
-
+		<link
+    	rel="alternate"
+    	type="application/rss+xml"
+    	title="Goob Station"
+   		href={`${Astro.site}rss.xml`}
+		/>
 		<meta charset="UTF-8" />
 		<meta name="description" content={description || pageTitle}>
 		<meta name="viewport" content="width=device-width" />
