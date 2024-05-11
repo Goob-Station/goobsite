@@ -1,7 +1,6 @@
 ---
 title: Goob finally has a website!
 published: 2024-05-11
-author: Durk
 description: ''
 image: ''
 tags: []
