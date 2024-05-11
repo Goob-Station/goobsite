@@ -33,8 +33,8 @@ const enableBanner = siteConfig.banner.enable
 
     <div id="content-wrapper" class="row-start-2 row-end-4 col-span-2 overflow-hidden onload-animation">
         <!-- the overflow-hidden here prevent long text break the layout-->
+        <ServerStatus></ServerStatus>
         <main id="swup" class="transition-fade">
-            <ServerStatus></ServerStatus>
             <slot></slot>
         </main>
 

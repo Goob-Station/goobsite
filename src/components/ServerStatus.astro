@@ -1,4 +1,14 @@
-<div id="status"></div>
+---
+import { Icon } from 'astro-icon/components';
+const className = Astro.props.class;
+---
+<div class:list={["card-base flex flex-col-reverse md:flex-col w-full rounded-[var(--radius-large)] overflow-hidden relative", className]}>
+    <div id="status"></div>
+</div>
+<div class="transition border-t-[1px] border-dashed mx-6 border-black/10 dark:border-white/[0.15] last:border-t-0 md:hidden"></div>
+
+<style lang="stylus">
+</style>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
