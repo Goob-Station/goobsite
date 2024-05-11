@@ -1,0 +1,29 @@
+<div id="status"></div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Fetch data from the API
+        fetch('http://noda.avesmaximus.eu:4888/status')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Update HTML elements with the fetched data
+                document.getElementById('status').innerHTML = `
+                    <p>Name: ${data.name}</p>
+                    <p>Players: ${data.players}/${data.soft_max_players}</p>
+                    <p>Map: ${data.map}</p>
+                    <p>Preset: ${data.preset}</p>
+                    <p>Round ID: ${data.round_id}</p>
+                    <p>Round Start Time: ${new Date(data.round_start_time).toLocaleString()}</p>
+                `;
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+                document.getElementById('status').innerText = 'Failed to fetch game status. Please try again later.';
+            });
+    });
+</script>
