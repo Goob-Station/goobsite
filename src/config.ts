@@ -43,12 +43,12 @@ export const navBarConfig: NavBarConfig = {
     },
     {
       name: 'Github',
-      url: 'https://git.goobstation.com',     // Internal links should not include the base path, as it is automatically added
+      url: 'http://git.goobstation.com',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
     {
       name: 'Discord',
-      url: 'https://discord.goobstation.com',     // Internal links should not include the base path, as it is automatically added
+      url: 'http://discord.goobstation.com',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     }
   ],
