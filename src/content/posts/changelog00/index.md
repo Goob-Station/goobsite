@@ -62,11 +62,10 @@ The carrying system from DeltaV/Frontier has been ported over, so now you can ca
 ## Cloning Boards in CMO's Locker
 ![CMOLocker](./cmo.PNG)
 
-Working with science to research cloning is always a pain, so now CMO spawns with circuit boards in their locker roundstart.
+Since cloning was removed from research, now CMO spawns with circuit boards in their locker roundstart.
 
 ## Other Minor Changes
 #### Syndies spawn with 25 tc, syndicats only cost 7 tc, and throngler can be purchased for 100 tc.
-#### EVA and Hardsuits have their own research in the civilian services section, guns in the arsenal, and RCD plus engi hardsuit in the industrial.
 #### Custom music and custom backgrounds
 #### Nukie round has TF2 announcer effects
 #### Minor buff to skub and bike horn, clown mains rejoice.
