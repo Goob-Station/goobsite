@@ -1,7 +1,7 @@
 ---
 title: 'Changelog 00: Changelog Reconsolidation'
 published: 2024-05-11
-description: 'Reconsolidation of all past changelogs into the new format'
+description: 'Reconsolidation of all past changelogs into the new format.'
 image: ''
 tags: []
 category: ''
@@ -65,7 +65,7 @@ The carrying system from DeltaV/Frontier has been ported over, so now you can ca
 Since cloning was removed from research, now CMO spawns with circuit boards in their locker roundstart.
 
 ## Other Minor Changes
-#### Syndies spawn with 25 tc, syndicats only cost 7 tc, and throngler can be purchased for 100 tc.
+#### Syndicats only cost 7 tc, and throngler can be purchased for 100 tc.
 #### Custom music and custom backgrounds
 #### Nukie round has TF2 announcer effects
 #### Minor buff to skub and bike horn, clown mains rejoice.
