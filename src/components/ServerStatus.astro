@@ -13,7 +13,7 @@ const className = Astro.props.class;
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Fetch data from the API
-        fetch('http://status.goobstation.com/status')
+        fetch('https://status.goobstation.com/status')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
