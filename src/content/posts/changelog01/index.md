@@ -45,7 +45,7 @@ VMSoldius used his massive physics nerd brain to refactor space wind completely,
 ![Resprite](./retex.png) ![Vendors](./vendors.gif)
 
 All sprites from EE have been ported over to Goobstation, this helps us along quite a bit with our plan to change all sprites to their Paradise Station counterparts.
-## Survival Box Rework - Durk & gtheglorius
+## Survival Box Rework - Durk & gtheglorious
 ![SurvivalBoxRework](./survivalbox.png)
 The survival box has been effectively useless since the new inventory system was released. When a player takes a single item out of it, it becomes garbage that takes up too much space. This reworks the survival box to a slot-based system, and takes up a 2x2 space instead of 3x3, meaning it stays useful for much longer.
 
@@ -87,7 +87,7 @@ Goob finally has a changelog in-game thanks to Piras.
 #### Emitters and containment field generators were made cheaper - Piras314
 #### Fire door remotes were re-added - a-person5660
 #### More Traitor flavour text was added - whateverusername0
-#### Lil Cal puppet from Homestuck - Durk & gtheglorius
+#### Lil Cal puppet from Homestuck - Durk & gtheglorious
 #### Anomaly locator now spawns in the RD’s locker - a-person5660
 #### EMT Belt respite - JoeHammad1844
 #### Medhud crit/dead icons have been updated - Teapug
