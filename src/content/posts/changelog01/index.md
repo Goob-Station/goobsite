@@ -49,7 +49,7 @@ The survival box has been effectively useless since the new inventory system was
 All of the lobby art and music (except space asshole) have been replaced! Many of the lobby screens were made specifically for Goob!
 
 ## Durathread Armour - a-person5660 & Piras314
-![DurathreadArmour](./durathreadarmour.mp4)
+![DurathreadArmour](./durathread.mp4)
 
 Dura-thread Armour has been added to the game, it’s able to be produced via emagged uniform printer and is similar to a syndicate web-vest statistics-wise, albeit slightly worse. There are 3 dura-thread armours: Dura-thread Armour, Dura-thread Jump-suit, and Dura-thread Web Vest.
 
