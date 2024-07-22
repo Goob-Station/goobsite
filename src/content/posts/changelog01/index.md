@@ -1,5 +1,5 @@
 ---
-title: 'Changelog 01: This is only the beginning!'
+title: 'Changelog 01: How did we get here?'
 published: 2024-07-21
 description: 'All the updates from mid May - mid July 2024'
 image: ''
@@ -10,9 +10,11 @@ draft: false
 # Changelog 01: This is only the beginning!
 ## Since the last changelog was posted here, so much has happened...
 
-### - Space Station 14 was featured at the PC Gamer Show, with Goob taking most of the new players dubbed, "pctiders".
-### - We hit 1,000 people in our Discord, and 12,000 unique players on the server
-The pctide hit us, and it hit us hard. During the first day we maxed out our playercount at 100, leading it to be upped to 250. Due to some hosting issues it was capped at 140 for another day. By the third day it was fixed but the tide was dying down, and we reached a max player count of 187. Among the hordes of new players we also had to deal with insistent raiders and DDoS attempts, but thanks to our lovely staff team putting all hands on deck, we managed to survive. The entire week of pctide was a learning experience for us as well, leading us to redefine a lot of our internal infrastructure. Through all the mess of it though, we've reached a perfect example of what we want the Goobstation experience to be, a mix of chaos and roleplay that leads to a experience more like SS13.
+### - Space Station 14 was featured at the PC Gamer Show, gaining traction to both Goob and SS14 as a whole, we've hit over 1,000 people in our Discord, and 12,000 unique players on the server.
+The PC Tide (influx of players from PC Gamer Show) hit us, and it hit us hard. During the first day we maxed out our playercount at 100, leading it to be upped to 250. Due to some hosting issues it was capped at 140 for another day. By the third day it was fixed but the tide was dying down, and we reached a max player count of 187. Among the hordes of new players we also had to deal with insistent raiders and DDoS attempts, but thanks to our lovely staff team putting all hands on deck, we managed to survive. The entire week of PC Tide was a learning experience for us as well, leading us to redefine a lot of our internal infrastructure. Through all the mess of it though, we've got a great example of what we want the Goobstation experience to be, a mix of chaos and roleplay that leads to a experience more like SS13. (I've included some videos below that I think are great examples of this.)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNwtheHGCHg?si=rgXt_YAQKk0P-Tf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wIkmv5qA-Uw?si=8H65CQdemvJ1nyo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqQ8rkj1rQs?si=TR2lmusDkiaEzGpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### - The repo was completely refactored to fit new conventions
 This was a personal goal of mine, the repo was previously a mess of content put direclty into the repo. Finding and porting all this content was hell and took forever, but we now use folder schemas similar to Nyano/Delta which has made merging upstream much less of a headache.
@@ -23,7 +25,7 @@ As you'll see below, plenty more content has been added and is being actively wo
 [whateverusername0](https://github.com/whateverusername0), also known as John Station, for his work on Supermatter and Changelings, we strive to make our gameplay more diverse, and adding more antagonists plays a large part in that.\
 [Piras314](https://github.com/Simple-Station/Einstein-Engines), for wrangling the contributors and making my life just a little easier.
 
-### I want to thank all the players, contributors, and staff that have made this server possible, and I know we have a lot more to come in the following months! - Durk
+### Finally, I want to thank all the players, contributors, and staff that have made the success of this server possible, and I know we have a lot more to look forward to in the following months! - Durk
 ---
 ## Supermatter Engine - VMSoldius & whateverusername0
 ![SuperMatter](./supermatter.png)
@@ -32,32 +34,30 @@ Supermatter is a powerful generator from SS13, originally taken from Whitedream,
 
 ## Changelings - whateverusername0
 ![Changelings](./changelings.png)
-
 Changelings have been added to the game and while they’re still in an initial playtesting stage, they’re a ton of fun to play around with. Changelings have all kinds of abilities ([see here](https://github.com/space-wizards/space-station-14/pull/30094)) but the main idea of Changelings is that they are meant to kill and absorb the station’s inhabitants using the plethora of abilities they can unlock.
 
 ## Space Wind + Frictionless Space - VMSoldius
-<img src="./spacewind.mp4" alt="spacewind" width="200" height="200"/>
+<video width="600" controls>
+  <source src="/src/content/posts/changelog01/spacewind.mp4" type="video/mp4">
+</video>
 
 VMSoldius used his massive physics nerd brain to refactor space wind completely, it now behaves properly according to the atmospherics instead of randomly tossing shit around. Along with this we’ve also ported frictionless space to make it extra deadly.
-
 ## Resprite from Einstein Engines - FoxxoTrystan & VMSoldius
 ![Resprite](./retex.png) ![Vendors](./vendors.gif)
 
-All sprites from EE have been ported over to Goobstation, this helps us along quite a bit with our plan to change all sprites to their Paradisestation counterparts.
-
+All sprites from EE have been ported over to Goobstation, this helps us along quite a bit with our plan to change all sprites to their Paradise Station counterparts.
 ## Survival Box Rework - Durk & gtheglorius
 ![SurvivalBoxRework](./survivalbox.png)
-
 The survival box has been effectively useless since the new inventory system was released. When a player takes a single item out of it, it becomes garbage that takes up too much space. This reworks the survival box to a slot-based system, and takes up a 2x2 space instead of 3x3, meaning it stays useful for much longer.
 
 ## All-new Lobby Art! (and music) - Piras314, Durk, ka2220, Icepick, & PubliclyExecutedPig
 ![LobbyArt](./lobbyart.png)
-
 All of the lobby art and music (except space asshole) have been replaced! Many of the lobby screens were made specifically for Goob!
 
 ## Durathread Armour - a-person5660 & Piras314
-<img src="./durathread.mp4" alt="Durathread" width="200" height="200"/>
-
+<video width="600" controls>
+  <source src="/src/content/posts/changelog01/durathread.mp4" type="video/mp4">
+</video>
 Dura-thread Armour has been added to the game, it’s able to be produced via emagged uniform printer and is similar to a syndicate web-vest statistics-wise, albeit slightly worse. There are 3 dura-thread armours: Dura-thread Armour, Dura-thread Jump-suit, and Dura-thread Web Vest.
 
 ## Uplink Price Rework - Piras314, Durk, & TooSillyFennec
