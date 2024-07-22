@@ -38,7 +38,7 @@ Changelings have been added to the game and while they’re still in an initial 
 
 ## Space Wind + Frictionless Space - VMSoldius
 <video width="600" controls>
-  <source src="/src/content/posts/changelog01/spacewind.mp4" type="video/mp4">
+  <source src="https://cdn.discordapp.com/attachments/675078881425752124/1261702016032571432/ListeningPostScuttling.mp4?ex=669e7711&is=669d2591&hm=98f1caf6e1b37aae9f28003aed4b8420cc972a4db049e90d5b6486deb10d9df3&" type="video/mp4">
 </video>
 
 VMSoldius used his massive physics nerd brain to refactor space wind completely, it now behaves properly according to the atmospherics instead of randomly tossing shit around. Along with this we’ve also ported frictionless space to make it extra deadly.
@@ -56,7 +56,7 @@ All of the lobby art and music (except space asshole) have been replaced! Many o
 
 ## Durathread Armour - a-person5660 & Piras314
 <video width="600" controls>
-  <source src="/src/content/posts/changelog01/durathread.mp4" type="video/mp4">
+  <source src="https://private-user-images.githubusercontent.com/40855173/340993536-87b83194-2c3d-416f-bf9b-74706938ce04.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE2MTU1MjQsIm5iZiI6MTcyMTYxNTIyNCwicGF0aCI6Ii80MDg1NTE3My8zNDA5OTM1MzYtODdiODMxOTQtMmMzZC00MTZmLWJmOWItNzQ3MDY5MzhjZTA0Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIyVDAyMjcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlOTRmNjA4OTI2MjJkZTI1ODMyMjc3NDJiNGJjZDQxNzBkM2Q1ZjU2ODc0MmIwNjFiMDE0NTUxZWViMDQ1OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AePrhcrSq29Npn3Vi7DTow6C0bIG17b26tzADARrSl0" type="video/mp4">
 </video>
 Dura-thread Armour has been added to the game, it’s able to be produced via emagged uniform printer and is similar to a syndicate web-vest statistics-wise, albeit slightly worse. There are 3 dura-thread armours: Dura-thread Armour, Dura-thread Jump-suit, and Dura-thread Web Vest.
 
@@ -77,7 +77,6 @@ Goob finally has a changelog in-game thanks to Piras.
 
 ## Other Changes
 #### A recharging pie cannon for Syndicate Clowns was added - Piras314
-#### Pipe stacking was reworked - Ilya246 & BasedUser
 #### Syndicate Fire Axes and De-Swords were re-added - Ilya246
 #### Pressure damage changes from upstream were reverted - Piras314
 #### Space Ninjas now have microbombs instead of death acidifiers - a-person5660
@@ -106,4 +105,4 @@ Goob finally has a changelog in-game thanks to Piras.
 
 ---
 ::github{repo="Goob-Station/Goob-Station"}
-### We are always open to new contributions. Do you have something silly you want added to GS14? Make a pull request!
+### We are always open to new contributions. Do you have something silly you want added to Goob? Make a pull request!

@@ -11,7 +11,7 @@ draft: false
 Now that we have a proper website for changelogs, I'm going back to all the old ones and consolidating them into a single one, basically a list of all goob specific features.
 
 ::github{repo="Goob-Station/Goob-Station"}
-### We are always open to new contributions, got something silly you wish was added to SS14? Make a pull request to our fork!
+### We are always open to new contributions. Do you have something silly you want added to Goob? Make a pull request!
 ---
 
 ## Wizard Antagonist
