@@ -7,7 +7,7 @@ tags: []
 category: ''
 draft: false 
 ---
-# Changelog 01: This is only the beginning!
+# Changelog 01: How did we get here?
 ## Since the last changelog was posted here, so much has happened...
 
 ### - Space Station 14 was featured at the PC Gamer Show, gaining traction to both Goob and SS14 as a whole, we've hit over 1,000 people in our Discord, and 12,000 unique players on the server.
@@ -56,7 +56,7 @@ All of the lobby art and music (except space asshole) have been replaced! Many o
 
 ## Durathread Armour - a-person5660 & Piras314
 <video width="600" controls>
-  <source src="https://private-user-images.githubusercontent.com/40855173/340993536-87b83194-2c3d-416f-bf9b-74706938ce04.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE2MTU1MjQsIm5iZiI6MTcyMTYxNTIyNCwicGF0aCI6Ii80MDg1NTE3My8zNDA5OTM1MzYtODdiODMxOTQtMmMzZC00MTZmLWJmOWItNzQ3MDY5MzhjZTA0Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIyVDAyMjcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlOTRmNjA4OTI2MjJkZTI1ODMyMjc3NDJiNGJjZDQxNzBkM2Q1ZjU2ODc0MmIwNjFiMDE0NTUxZWViMDQ1OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AePrhcrSq29Npn3Vi7DTow6C0bIG17b26tzADARrSl0" type="video/mp4">
+  <source src="https://cdn.discordapp.com/attachments/334104938760110093/1264773246474256394/340993536-87b83194-2c3d-416f-bf9b-74706938ce04.mp4?ex=669f1760&is=669dc5e0&hm=1b57b5e95343db970a02df44e676b46f55b0106d7ebc0b31b7f74d680d8fc8d8&" type="video/mp4">
 </video>
 Dura-thread Armour has been added to the game, it’s able to be produced via emagged uniform printer and is similar to a syndicate web-vest statistics-wise, albeit slightly worse. There are 3 dura-thread armours: Dura-thread Armour, Dura-thread Jump-suit, and Dura-thread Web Vest.
 
