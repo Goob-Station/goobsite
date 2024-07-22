@@ -7,7 +7,6 @@ tags: []
 category: ''
 draft: false 
 ---
-# Changelog 00: Changelog Reconsolidation
 Now that we have a proper website for changelogs, I'm going back to all the old ones and consolidating them into a single one, basically a list of all goob specific features.
 
 ::github{repo="Goob-Station/Goob-Station"}

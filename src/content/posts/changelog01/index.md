@@ -7,7 +7,6 @@ tags: []
 category: ''
 draft: false 
 ---
-# Changelog 01: How did we get here?
 ## Since the last changelog was posted here, so much has happened...
 
 ### - Space Station 14 was featured at the PC Gamer Show, gaining traction to both Goob and SS14 as a whole, we've hit over 1,000 people in our Discord, and 12,000 unique players on the server.
