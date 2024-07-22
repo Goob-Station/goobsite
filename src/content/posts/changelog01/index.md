@@ -8,15 +8,22 @@ category: ''
 draft: false 
 ---
 # Changelog 01: This is only the beginning!
-Since the last changelog was posted here, so much has happened...
+## Since the last changelog was posted here, so much has happened...
 
-- The repo was completely refactored to fit new conventions by Durk
-- Space Station 14 was featured at the PC Gamer Show, with Goob taking most of the new players dubbed, "pctiders"
-- We hit 1,000 people in our Discord, and 12,000 unique players on the server
-####- A lot of content was added!
+### - Space Station 14 was featured at the PC Gamer Show, with Goob taking most of the new players dubbed, "pctiders".
+### - We hit 1,000 people in our Discord, and 12,000 unique players on the server
+The pctide hit us, and it hit us hard. During the first day we maxed out our playercount at 100, leading it to be upped to 250. Due to some hosting issues it was capped at 140 for another day. By the third day it was fixed but the tide was dying down, and we reached a max player count of 187. Among the hordes of new players we also had to deal with insistent raiders and DDoS attempts, but thanks to our lovely staff team putting all hands on deck, we managed to survive. The entire week of pctide was a learning experience for us as well, leading us to redefine a lot of our internal infrastructure. Through all the mess of it though, we've reached a perfect example of what we want the Goobstation experience to be, a mix of chaos and roleplay that leads to a experience more like SS13.
 
-::github{repo="Goob-Station/Goob-Station"}
-### We are always open to new contributions. Do you have something silly you want added to GS14? Make a pull request!
+### - The repo was completely refactored to fit new conventions
+This was a personal goal of mine, the repo was previously a mess of content put direclty into the repo. Finding and porting all this content was hell and took forever, but we now use folder schemas similar to Nyano/Delta which has made merging upstream much less of a headache.
+
+### - A lot of content was added!
+As you'll see below, plenty more content has been added and is being actively worked on. In particular I want to mention a few contributors for the hard work they've put in.\
+[VMSoldius](https://github.com/VMSolidus) and the entire team over at [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines), for their tireless work on their fork and willingness to listen and improve from our feedback.\
+[whateverusername0](https://github.com/whateverusername0), also known as John Station, for his work on Supermatter and Changelings, we strive to make our gameplay more diverse, and adding more antagonists plays a large part in that.\
+[Piras314](https://github.com/Simple-Station/Einstein-Engines), for wrangling the contributors and making my life just a little easier.
+
+### I want to thank all the players, contributors, and staff that have made this server possible, and I know we have a lot more to come in the following months! - Durk
 ---
 ## Supermatter Engine - VMSoldius & whateverusername0
 ![SuperMatter](./supermatter.png)
@@ -29,7 +36,7 @@ Supermatter is a powerful generator from SS13, originally taken from Whitedream,
 Changelings have been added to the game and while they’re still in an initial playtesting stage, they’re a ton of fun to play around with. Changelings have all kinds of abilities ([see here](https://github.com/space-wizards/space-station-14/pull/30094)) but the main idea of Changelings is that they are meant to kill and absorb the station’s inhabitants using the plethora of abilities they can unlock.
 
 ## Space Wind + Frictionless Space - VMSoldius
-![SpaceWind](./spacewind.mp4)
+<img src="./spacewind.mp4" alt="spacewind" width="200" height="200"/>
 
 VMSoldius used his massive physics nerd brain to refactor space wind completely, it now behaves properly according to the atmospherics instead of randomly tossing shit around. Along with this we’ve also ported frictionless space to make it extra deadly.
 
@@ -49,7 +56,7 @@ The survival box has been effectively useless since the new inventory system was
 All of the lobby art and music (except space asshole) have been replaced! Many of the lobby screens were made specifically for Goob!
 
 ## Durathread Armour - a-person5660 & Piras314
-![DurathreadArmour](./durathread.mp4)
+<img src="./durathread.mp4" alt="Durathread" width="200" height="200"/>
 
 Dura-thread Armour has been added to the game, it’s able to be produced via emagged uniform printer and is similar to a syndicate web-vest statistics-wise, albeit slightly worse. There are 3 dura-thread armours: Dura-thread Armour, Dura-thread Jump-suit, and Dura-thread Web Vest.
 
@@ -96,3 +103,7 @@ Goob finally has a changelog in-game thanks to Piras.
 #### Cryo and Bluespace syringe slightly buffed - a-person5660
 #### Foam throngler was added to the grand lottery - Scruq445
 #### Added dual antag gamemodes - TooSillyFennec
+
+---
+::github{repo="Goob-Station/Goob-Station"}
+### We are always open to new contributions. Do you have something silly you want added to GS14? Make a pull request!
