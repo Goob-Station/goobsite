@@ -12,10 +12,9 @@ When I first joined Goobstation, it was known as the “funny unserious LRP serv
 
 This decision has been a long time coming, as I’ve noticed the culture changing over the past few months. It is what it is. I wish most of you the best of luck moving forward.
 #### One love, Durk.
-
+<iframe width="775" height="315" src="https://www.youtube.com/embed/Ktatsqnb4Cw?si=Ni99cb4n4g4k1KoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-
 ## Ghostbar - Durk
 I finally got off my ass and added ghostbar, after dying you can choose to respawn here as a random job and do whatever you want inside, (still within the rules of course.)
 
