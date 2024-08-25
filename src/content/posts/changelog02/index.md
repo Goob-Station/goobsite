@@ -8,7 +8,9 @@ category: ''
 draft: false 
 ---
 ### AKA, I'm outta here losers
-When I originally joined Goobstation, it was known as the “funny unserious LRP server,” where people were encouraged to fuck around within the bounds of the rules. I wanted to be a part of that and make the game more fun for other players. The server has had a direction change, and this direction may not be inherently bad, but it is not the direction the server was going in when I joined and not one I want to be a part of anymore. This has been a long time coming as the server culture has changed over the past few months, but it is what it is. I wish most of you best of luck.
+When I first joined Goobstation, it was known as the “funny unserious LRP server” where players were encouraged to have fun within the bounds of the rules. I was excited to be a part of that and aimed to make the game enjoyable for everyone. However, the server has since shifted in a different direction. While this change isn’t inherently bad, it’s not the path I initially signed up for, and it’s not one I want to continue down.
+
+This decision has been a long time coming, as I’ve noticed the culture changing over the past few months. It is what it is. I wish most of you the best of luck moving forward.
 #### One love, Durk.
 
 
