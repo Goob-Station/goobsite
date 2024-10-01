@@ -1,7 +1,7 @@
 ---
 title: 'Changelog 02: So Long, and Thanks for All the Fish.'
 published: 2024-08-25
-description: 'All the updates from mid July 2024 - end of August 2024 and Durk's Farewell'
+description: 'All the updates from mid July 2024 - end of August 2024 and Durks Farewell'
 image: ''
 tags: []
 category: ''
