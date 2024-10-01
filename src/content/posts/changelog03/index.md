@@ -1,5 +1,5 @@
 ---
-title: "Changelog 03: Life Goes On"
+title: 'Changelog 03: Life Goes On'
 published: 2024-10-01
 description: 'All the September updates'
 image: ''
