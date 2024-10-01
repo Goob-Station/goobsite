@@ -160,16 +160,25 @@ Mind Shielding a Head Revolutionary doesn’t break the implant anymore, but it 
 The Fast-Draw Implanter has been added to the game for Head Revolutionaries. It can quickly remove implants, and is intended for removing Mind Shields.
 
 ## [Spectral Locator](https://github.com/Goob-Station/Goob-Station/pull/685) - [Ilya246](https://github.com/ilya246) 
+
 <video width="600" controls>
   <source src="./spectral-locator.mp4" type="video/mp4">
 
 The Spectral Locator has been added to the game, it’s rare maintenance loot and chaplain gear (one in the chaplain’s vendor) that can detect if ghosts, revenants, or the AI eye are nearby.
 
-## [Smuggler’s Satchel](https://github.com/Goob-Station/Goob-Station/pull/691) - [cheki-ss14](https://github.com/cheki-ss14) 
+## [Smuggler’s Satchel](https://github.com/Goob-Station/Goob-Station/pull/691) - [cheki-ss14](https://github.com/cheki-ss14)
+
 <video width="600" controls>
   <source src="./smugglers-satchel.mp4" type="video/mp4">
 
 The Smuggler’s Satchel has been added to the game, you can find it in the uplink for 15 Telecrystals. At a glance, it looks like a regular satchel, but it can be hidden under floor tiles. Simply tear up a floor tile with a crowbar, place the satchel, anchor it with a wrench, and put the floor tile back.
+
+## [The Great Gaming Rework](https://github.com/Goob-Station/Goob-Station/pull/659) - [John Station / Whateverusername0](https://github.com/whateverusername0)
+
+![Dynamic](./dynamic.png)
+
+The "Great Gaming Rework" was merged. It adds dynamic gamemode control, renames passenger to assistant, and brings various changes to almost all gamemodes.
+
 
 ## Other Changes
 #### Maintaining, Adding AI, BSO, and NTR to some Maps and Re-Adding Deleted Maps - [Icepicked](https://github.com/Icepicked) - [BombasterDS](https://github.com/BombasterDS) - [Piras314](https://github.com/Piras314)
