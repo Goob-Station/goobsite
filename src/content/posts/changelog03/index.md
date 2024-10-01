@@ -122,6 +122,7 @@ The Blueshield Officer has been given unique clothing.
 
 <video width="600" controls>
   <source src="./ion-damage.mp4" type="video/mp4">
+</video>
 
 Ion damage has been added to the game. Disablers and the X-01 Energy Gun deal this type of damage, which borgs are very weak to. Borgs have also been buffed against other damage types, especially Syndicate Assault Cyborgs.
 
@@ -163,6 +164,7 @@ The Fast-Draw Implanter has been added to the game for Head Revolutionaries. It 
 
 <video width="600" controls>
   <source src="./spectral-locator.mp4" type="video/mp4">
+</video>
 
 The Spectral Locator has been added to the game, it’s rare maintenance loot and chaplain gear (one in the chaplain’s vendor) that can detect if ghosts, revenants, or the AI eye are nearby.
 
@@ -170,6 +172,7 @@ The Spectral Locator has been added to the game, it’s rare maintenance loot an
 
 <video width="600" controls>
   <source src="./smugglers-satchel.mp4" type="video/mp4">
+</video>
 
 The Smuggler’s Satchel has been added to the game, you can find it in the uplink for 15 Telecrystals. At a glance, it looks like a regular satchel, but it can be hidden under floor tiles. Simply tear up a floor tile with a crowbar, place the satchel, anchor it with a wrench, and put the floor tile back.
 
