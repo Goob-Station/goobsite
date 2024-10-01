@@ -46,8 +46,6 @@ Uplink discounts were ported from WWDP with many changes. Upstream added uplink 
 
 ## [Gun Duel-Wielding](https://github.com/Goob-Station/Goob-Station/pull/629) - [BombasterDS](https://github.com/bombasterds) 
 
-![Dual-Wield](./dual-wield.mp4)
-
 You can now dual-wield some guns that don’t require you to hold them with two hands, albeit with much lower accuracy and the guns also shoot slower (video is slightly out of date).
 
 ## [Changeling Last Resort Ability](https://github.com/Goob-Station/Goob-Station/pull/527) - [Yglop](https://github.com/yglop)
@@ -61,8 +59,6 @@ After using last resort action, the changeling will drop everything and transfor
 A new species, Rodentia, has been added to the game. They can rummage through trash cans for food and can hide under tables like Rat Kings.
 
 ## [X-01 Multiphase Energy Gun](https://github.com/Goob-Station/Goob-Station/pull/614) - [FluffiestFloof](https://github.com/FluffiestFloof) - [Dvir001](https://github.com/dvir001) ported by: [Icepick](https://github.com/Icepicked) 
-
-![X01](./x01.mp4)
 
 The X-01 Multiphase Energy Gun was added to the game, originally for the BSO but [now](https://github.com/Goob-Station/Goob-Station/pull/653) for the HoS. Also see [this pr](https://github.com/Goob-Station/Goob-Station/pull/646) for more changes to the X-01. It has two modes, one for Ion damage, one for Heat damage, and one for Stun damage / disabling.
 
@@ -88,8 +84,6 @@ The emote wheel icons were changed to look more like emoji.
 
 ## [Security Hailer](https://github.com/Goob-Station/Goob-Station/pull/531) - [Starwolfy](https://github.com/starwolfy) 
 
-![Hailer](./hailer.mp4)
-
 The Security Hailer was added, built-in to the Security Gas Mask. Simply wear your Security Gas Mask, and press the icon / action button on the left-hand (or top) of your screen. “Stop in the name of the law!”
 
 ## [Unknown Salvager Shuttle Event](https://github.com/Goob-Station/Goob-Station/pull/572) - [Jorgun](https://github.com/jorgun) - [Frontier Station](https://github.com/new-frontiers-14) 
@@ -113,8 +107,6 @@ A basic Religion system was added, current religion options include Christian, A
 The Blueshield Officer has been given unique clothing.
 
 ## [Ion Damage](https://github.com/Goob-Station/Goob-Station/pull/646) - [BombasterDS](https://github.com/bombasterds) 
-
-![IonDamage](./ion-damage.mp4)
 
 Ion damage has been added to the game. Disablers and the X-01 Energy Gun deal this type of damage, which borgs are very weak to. Borgs have also been buffed against other damage types, especially Syndicate Assault Cyborgs.
 
@@ -154,13 +146,9 @@ The Fast-Draw Implanter has been added to the game for Head Revolutionaries. It 
 
 ## [Spectral Locator](https://github.com/Goob-Station/Goob-Station/pull/685) - [Ilya246](https://github.com/ilya246) 
 
-![SpectralLocator](./spectral-locator.mp4)
-
 The Spectral Locator has been added to the game, it’s rare maintenance loot and chaplain gear (one in the chaplain’s vendor) that can detect if ghosts, revenants, or the AI eye are nearby.
 
 ## [Smuggler’s Satchel](https://github.com/Goob-Station/Goob-Station/pull/691) - [cheki-ss14](https://github.com/cheki-ss14)
-
-![SmugglersSatchel](./smugglers-satchel.mp4)
 
 The Smuggler’s Satchel has been added to the game, you can find it in the uplink for 15 Telecrystals. At a glance, it looks like a regular satchel, but it can be hidden under floor tiles. Simply tear up a floor tile with a crowbar, place the satchel, anchor it with a wrench, and put the floor tile back.
 
